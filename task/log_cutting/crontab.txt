@@ -1,0 +1,2 @@
+#每天0点执行一次脚本
+0 0 */1 * * ruby log_cutting.rb
